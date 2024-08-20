@@ -4,12 +4,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
+
+
 - 🌱 I’m currently learning **DSA with C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/the-vinay-yadav" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="the-vinay-yadav" height="60" width="60" /></a>
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="60" width="60"/></a>
+<a href="https://x.com/VinayYadavDev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="60" width="60"/></a>
 <a href="https://fb.com/nitian.vinay" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="nitian_vinay" height="60" width="60"/></a>
 <a href="https://instagram.com/nitian_vinay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitian_vinay" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vinay_yadav01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vinay_yadav01" height="30" width="40" /></a>
@@ -27,15 +29,15 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" height="50"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" height="50"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinay-yadav01&" alt="vinay-yadav01" height="150"/></p>
 
 <div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinay-yadav01&" alt="vinay-yadav01" height="150"/></p>
   <img src="https://github-readme-stats.vercel.app/api?username=Vinay-Yadav01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinay-Yadav01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Vinay-Yadav01/Vinay-Yadav01/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Vinay-Yadav01/Vinay-Yadav01/output/snake.svg" alt="Snake animation" />
 
 ###
