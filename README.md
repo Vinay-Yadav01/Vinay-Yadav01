@@ -29,9 +29,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" height="50"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" height="50"/></p>
 
-
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinay-yadav01&" alt="vinay-yadav01" height="150"/></p>
   <img src="https://github-readme-stats.vercel.app/api?username=Vinay-Yadav01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinay-Yadav01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Vinay-Yadav01/Vinay-Yadav01/output/snake.svg" alt="Snake animation" />
+
+###
